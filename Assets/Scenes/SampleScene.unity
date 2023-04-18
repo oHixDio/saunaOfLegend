@@ -1582,7 +1582,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: PRESE  E  TITLE
+  m_Text: PLEASE  E  TITLE
 --- !u!222 &173164749
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -27677,7 +27677,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 300a67ed7defc1441af92996d2096092, type: 3}
-    m_FontSize: 95
+    m_FontSize: 90
     m_FontStyle: 3
     m_BestFit: 0
     m_MinSize: 0
@@ -27688,7 +27688,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: PRESE  E  START
+  m_Text: PLEASE  E  START
 --- !u!222 &1985152438
 CanvasRenderer:
   m_ObjectHideFlags: 0
